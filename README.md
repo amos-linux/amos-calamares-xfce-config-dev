@@ -1,2 +1,2 @@
-# AMOS Calamares configuration for xfce/leftwm
+# AMOS Calamares configuration for xfce
 
