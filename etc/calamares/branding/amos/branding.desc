@@ -121,12 +121,12 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         AmOs
-    shortProductName:    AmOs
-    version:             2022-07.1
-    shortVersion:        2022.07
-    versionedName:       AmOs
-    shortVersionedName:  AmOs
+    productName:         AmOs Linux
+    shortProductName:    AmOs Linux
+    version:             2022-08.1
+    shortVersion:        2022.08
+    versionedName:       AmOs Linux
+    shortVersionedName:  AmOs Linux
     bootloaderEntryName: Generic
     #productUrl:          https://calamares.io/
     #supportUrl:          https://github.com/calamares/calamares/wiki
@@ -165,7 +165,7 @@ images:
     # productBanner:       "banner.png"
     productIcon:         "install.png"
     productLogo:         "logo.png"
-    # productWallpaper:    "wallpaper.png"
+   productWallpaper:    "wallpaper.jpg"
     productWelcome:      "icon.png"
 
 # Colors for text and background components.
