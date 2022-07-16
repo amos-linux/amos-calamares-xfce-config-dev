@@ -165,7 +165,11 @@ images:
     # productBanner:       "banner.png"
     productIcon:         "install.png"
     productLogo:         "logo.png"
+<<<<<<< HEAD
    productWallpaper:    "wallpaper.jpg"
+=======
+    productWallpaper:    "wallpaper.jpg"
+>>>>>>> 896ff16becc5d874a7e04f4b0cf80955e01436be
     productWelcome:      "icon.png"
 
 # Colors for text and background components.
