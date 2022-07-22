@@ -182,9 +182,9 @@ images:
 # the corresponding CSS attributes of #sidebarApp.
 style:
    sidebarBackground:    "#1D2033"
-   sidebarText:          "#DB5C93"
+   sidebarText:          "#000000"
    sidebarTextSelect:    "#1D2033"
-   sidebarTextHighlight: "#A76ED7"
+   sidebarTextHighlight: "#1D2033"
    #sidebarTextHighlight: #A76ED7"
    #--strong orange
    #sidebarTextHighlight: "#363592"
