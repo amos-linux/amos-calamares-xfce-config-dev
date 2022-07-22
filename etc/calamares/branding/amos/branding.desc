@@ -165,8 +165,8 @@ images:
     # productBanner:       "banner.png"
     productIcon:         "install.png"
     productLogo:         "logo.png"
-    productWallpaper:    "wallpaper.jpg"
-    productWallpaper:    "wallpaper.jpg"
+    productWallpaper:    "wallpaper.png"
+    productWallpaper:    "wallpaper.png"
     productWelcome:      "icon.png"
 
 # Colors for text and background components.
@@ -183,7 +183,7 @@ images:
 style:
    sidebarBackground:    "#1D2033"
    sidebarText:          "#DB5C93"
-   sidebarTextSelect:    "#DB5C93"
+   sidebarTextSelect:    "#1D2033"
    sidebarTextHighlight: "#A76ED7"
    #sidebarTextHighlight: #A76ED7"
    #--strong orange
