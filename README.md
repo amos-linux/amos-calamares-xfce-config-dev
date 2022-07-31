@@ -1,2 +1,2 @@
-# AMOS Calamares configuration for 
+# AMOS Calamares configuration 
 
