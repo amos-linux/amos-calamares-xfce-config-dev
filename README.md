@@ -1,2 +1,2 @@
-# AMOS Calamares configuration for xfce
+# AMOS Calamares configuration for 
 
